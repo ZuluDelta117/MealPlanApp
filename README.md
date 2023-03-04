@@ -16,13 +16,13 @@ This app allows for indavidules that struggle maintaning a healthy meal plan be 
 
 The app was created within Android Studio using Java
 
-This app includes an xml file that constructs all the user interface. 
-This includes text and button widgets.
-
 I had to import these libraries for this app:
 - java.io.File: Allows for creating a file
 - java.io.FileWriter: Allows for writing to file
 - java.io.IOException: Throws an error if using file does not work
+
+This app includes an xml file that constructs all the user interface. 
+This includes text and button widgets.
 
 Within the Java file it calls each widget and takes the text the user inputs and turns them into strings
 Those stings are then added to a text file when the button widget is pressed.
