@@ -19,6 +19,7 @@ The app was created within Android Studio using Java
 This app includes an xml file that constructs all the user interface. 
 This includes text and button widgets.
 
+I had to import these libraries for this app:
 - java.io.File: Allows for creating a file
 - java.io.FileWriter: Allows for writing to file
 - java.io.IOException: Throws an error if using file does not work
