@@ -10,7 +10,7 @@ This app allows users to make a weekly meal plan. It takes user input and will a
 
 This app allows for indavidules that struggle maintaning a healthy meal plan be better prepared and organized each week. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=BAqPbz5N-Vg)
 
 # Development Environment
 
